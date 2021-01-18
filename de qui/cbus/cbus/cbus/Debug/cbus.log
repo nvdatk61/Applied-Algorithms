@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\dat\documents\visual studio 2015\projects\thuat toan ung dung\de qui\cbus\cbus\cbus\source.cpp(8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  cbus.vcxproj -> C:\Users\Dat\Documents\Visual Studio 2015\Projects\Thuat toan ung dung\de qui\cbus\cbus\Debug\cbus.exe
+  cbus.vcxproj -> C:\Users\Dat\Documents\Visual Studio 2015\Projects\Thuat toan ung dung\de qui\cbus\cbus\Debug\cbus.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\dat\documents\visual studio 2015\projects\thuat toan ung dung\chia de tri\aggrcow\aggrcow\aggrcow\source.cpp(27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  aggrcow.vcxproj -> C:\Users\Dat\Documents\Visual Studio 2015\Projects\Thuat toan ung dung\chia de tri\aggrcow\aggrcow\Debug\aggrcow.exe
+  aggrcow.vcxproj -> C:\Users\Dat\Documents\Visual Studio 2015\Projects\Thuat toan ung dung\chia de tri\aggrcow\aggrcow\Debug\aggrcow.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\dat\documents\visual studio 2015\projects\subseqmax\subseqmax\subseqmax\source.cpp(16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\dat\documents\visual studio 2015\projects\subseqmax\subseqmax\subseqmax\source.cpp(21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\dat\documents\visual studio 2015\projects\subseqmax\subseqmax\subseqmax\source.cpp(25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+LINK : fatal error LNK1168: cannot open C:\Users\Dat\Documents\Visual Studio 2015\Projects\subseqmax\Subseqmax\Debug\Subseqmax.exe for writing

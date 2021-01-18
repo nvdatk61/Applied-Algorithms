@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\dat\documents\visual studio 2015\projects\thuat toan ung dung\graph\component\component\component\source.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  component.vcxproj -> C:\Users\Dat\Documents\Visual Studio 2015\Projects\Thuat toan ung dung\graph\component\component\Debug\component.exe
+  component.vcxproj -> C:\Users\Dat\Documents\Visual Studio 2015\Projects\Thuat toan ung dung\graph\component\component\Debug\component.pdb (Partial PDB)

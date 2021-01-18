@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\dat\documents\visual studio 2015\projects\thuat toan ung dung\quy hoach dong\nurse\nurse\nurse\source.cpp(4): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  nurse.vcxproj -> C:\Users\Dat\Documents\Visual Studio 2015\Projects\Thuat toan ung dung\quy hoach dong\nurse\nurse\Debug\nurse.exe
+  nurse.vcxproj -> C:\Users\Dat\Documents\Visual Studio 2015\Projects\Thuat toan ung dung\quy hoach dong\nurse\nurse\Debug\nurse.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\dat\documents\visual studio 2015\projects\thuat toan ung dung\dst\sort int\sortint\sortint\source.cpp(21): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\dat\documents\visual studio 2015\projects\thuat toan ung dung\dst\sort int\sortint\sortint\source.cpp(26): warning C4244: 'argument': conversion from 'unsigned __int64' to 'std::size_t', possible loss of data
+  sortint.vcxproj -> C:\Users\Dat\Documents\Visual Studio 2015\Projects\Thuat toan ung dung\dst\sort int\sortint\Debug\sortint.exe
+  sortint.vcxproj -> C:\Users\Dat\Documents\Visual Studio 2015\Projects\Thuat toan ung dung\dst\sort int\sortint\Debug\sortint.pdb (Partial PDB)
